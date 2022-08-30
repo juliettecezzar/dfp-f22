@@ -29,31 +29,31 @@ At the end of this course, students will be able to:
 
 **WEEK 3: What is type?**  _September 13_
 
-**WEEK 4: What is color? _September 20_
+**WEEK 4: What is color?** _September 20_
 
-**WEEK 5: What is image and photography? _September 27_
+**WEEK 5: What is image and photography?** _September 27_
 
-**WEEK 6: What does the internet look like? How to make the internet _October 4_
+**WEEK 6: What does the internet look like? How to make the internet** _October 4_
 
-**WEEK 7: What is AI? What is form? _October 11_
+**WEEK 7: What is AI? What is form?** _October 11_
 
-**WEEK 8: What is a brand? _October 19_
+**WEEK 8: What is a brand?** _October 19_
 
 _mid-semester evaluation: final project begins_
 
-**WEEK 9: What is an idea? _October 25_ 
+**WEEK 9: What is an idea?** _October 25_ 
 
-**WEEK 10: What is validation? What is a prototype? What is a critique? _November 1_
+**WEEK 10: What is validation? What is a prototype? What is a critique?** _November 1_
 
-**WEEK 11: What is iteration? _November 8_
+**WEEK 11: What is iteration?** _November 8_
 
-**WEEK 12: What is iteration? _November 15_
+**WEEK 12: What is iteration?** _November 15_
 
-**WEEK 13: Individual meetings _November 22_
+**WEEK 13: Individual meetings** _November 22_
 
-**WEEK 14: Critique: Iterations/Presentations _November 29_
+**WEEK 14: Critique: Iterations/Presentations** _November 29_
 
-**WEEK 15: Final Critique with external critics _December 6_
+**WEEK 15: Final Critique with external critics** _December 6_
 
 
 **Required text:**
