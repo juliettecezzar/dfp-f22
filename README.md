@@ -27,9 +27,9 @@ At the end of this course, students will be able to:
 
 **WEEK 2: [What is design? & a little history](https://github.com/juliettecezzar/dfp-f22/wiki/WEEK-2:-What-is-publishing%3F-&-a-little-history)** _September 6_ 
 
-**WEEK 3: What is type?**  _September 13_
+**WEEK 3: [What is type?](https://github.com/juliettecezzar/dfp-f22/wiki/WEEK-3:-Typography)**  _September 13_
 
-**WEEK 4: What is color?** _September 20_
+**WEEK 4: [What is color?](https://github.com/juliettecezzar/dfp-f22/wiki/WEEK-4:-Color)** _September 20_
 
 **WEEK 5: What is image and photography?** _September 27_
 
