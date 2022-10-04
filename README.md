@@ -33,7 +33,7 @@ At the end of this course, students will be able to:
 
 **WEEK 5: [What is image and photography?](https://github.com/juliettecezzar/dfp-f22/wiki/Week-5:-What-is-image-and-photography%3F)** _September 27_
 
-**WEEK 6: What does the internet look like? How to make the internet** _October 4_
+**WEEK 6: [What does the internet look like? How to make the internet](https://github.com/juliettecezzar/dfp-f22/wiki/WEEK-6:-What-does-the-internet-look-like%3F-How-to-make-the-internet)** _October 4_
 
 **WEEK 7: What is AI? What is form?** _October 11_
 
