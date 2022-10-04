@@ -31,7 +31,7 @@ At the end of this course, students will be able to:
 
 **WEEK 4: [What is color?](https://github.com/juliettecezzar/dfp-f22/wiki/WEEK-4:-Color)** _September 20_
 
-**WEEK 5: What is image and photography?** _September 27_
+**WEEK 5: [What is image and photography?](https://github.com/juliettecezzar/dfp-f22/wiki/Week-5:-What-is-image-and-photography%3F)** _September 27_
 
 **WEEK 6: What does the internet look like? How to make the internet** _October 4_
 
