@@ -35,13 +35,13 @@ At the end of this course, students will be able to:
 
 **WEEK 6: [What does the internet look like? How to make the internet](https://github.com/juliettecezzar/dfp-f22/wiki/WEEK-6:-What-does-the-internet-look-like%3F-How-to-make-the-internet)** _October 4_
 
-**WEEK 7: What is AI? What is form?** _October 11_
+**WEEK 7: [What is AI? What is form?](https://github.com/juliettecezzar/dfp-f22/wiki/WEEK-7:-What-is-AI%3F-What-is-form%3F)** _October 11_
 
-**WEEK 8: What is a brand?** _October 19_
+**WEEK 8: What is an idea?(https://github.com/juliettecezzar/dfp-f22/wiki/WEEK-7:-What-is-AI%3F-What-is-form%3F)** _October 19_
 
 _mid-semester evaluation: final project begins_
 
-**WEEK 9: What is an idea?** _October 25_ 
+**WEEK 9: What is a brand?** _October 25_ 
 
 **WEEK 10: What is validation? What is a prototype? What is a critique?** _November 1_
 
