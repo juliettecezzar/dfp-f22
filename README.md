@@ -37,7 +37,7 @@ At the end of this course, students will be able to:
 
 **WEEK 7: [What is AI? What is form?](https://github.com/juliettecezzar/dfp-f22/wiki/WEEK-7:-What-is-AI%3F-What-is-form%3F)** _October 11_
 
-**WEEK 8: [What is an idea?](https://github.com/juliettecezzar/dfp-f22/wiki/WEEK-7:-What-is-AI%3F-What-is-form%3F)** _October 19_
+**WEEK 8: [What is an idea?](https://github.com/juliettecezzar/dfp-f22/wiki/Week-8:-What-is-an-idea%3F)** _October 19_
 
 _mid-semester evaluation: final project begins_
 
