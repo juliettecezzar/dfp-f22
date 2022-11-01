@@ -41,17 +41,17 @@ At the end of this course, students will be able to:
 
 _mid-semester evaluation: final project begins_
 
-**WEEK 9: What is a brand?** _October 25_ 
+**WEEK 9: How to make a booklet, What is validation? What is a prototype? What is a critique? ** _October 25_ 
 
-**WEEK 10: What is validation? What is a prototype? What is a critique?** _November 1_
+**WEEK 10: What is iteration? + a guest / Drew Campbell** _November 1_
 
-**WEEK 11: What is iteration?** _November 8_
+**WEEK 11: What is iteration? + a guest / Shira Inbar** _November 8_
 
-**WEEK 12: What is iteration?** _November 15_
+**WEEK 12: What is iteration? + a guest / Chris Wu** _November 15_
 
 **WEEK 13: Individual meetings** _November 22_
 
-**WEEK 14: Critique: Iterations/Presentations** _November 29_
+**WEEK 14: Critique: Iterations/Presentations + a guest / Diana Murphy** _November 29_
 
 **WEEK 15: Final Critique with external critics** _December 6_
 
