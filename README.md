@@ -41,7 +41,7 @@ At the end of this course, students will be able to:
 
 _mid-semester evaluation: final project begins_
 
-**WEEK 9: How to make a booklet, What is validation? What is a prototype? What is a critique? ** _October 25_ 
+**WEEK 9: [How to make a booklet, What is validation? What is a prototype? What is a critique?]() ** _October 25_ 
 
 **WEEK 10: What is iteration? + a guest / Drew Campbell** _November 1_
 
