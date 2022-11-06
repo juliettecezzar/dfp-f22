@@ -43,7 +43,7 @@ _mid-semester evaluation: final project begins_
 
 **WEEK 9: [How to make a booklet, What is validation? What is a prototype? What is a critique?](https://github.com/juliettecezzar/dfp-f22/wiki/How-to-make-a-booklet,-What-is-validation%3F-What-is-a-prototype%3F-What-is-a-critique%3F)** _October 25_ 
 
-**WEEK 10: What is iteration? + a guest / Drew Campbell** _November 1_
+**WEEK 10: [What is iteration? + a guest / Drew Campbell](https://github.com/juliettecezzar/dfp-f22/wiki/WEEK-10:-Iteration-and-a-guest)** _November 1_
 
 **WEEK 11: What is iteration? + a guest / Shira Inbar** _November 8_
 
