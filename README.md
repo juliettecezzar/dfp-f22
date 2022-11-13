@@ -45,7 +45,7 @@ _mid-semester evaluation: final project begins_
 
 **WEEK 10: [What is iteration? + a guest / Drew Campbell](https://github.com/juliettecezzar/dfp-f22/wiki/WEEK-10:-Iteration-and-a-guest)** _November 1_
 
-**WEEK 11: What is iteration? + a guest / Shira Inbar** _November 8_
+**WEEK 11: [What is iteration? + a guest / Shira Inbar](https://github.com/juliettecezzar/dfp-f22/wiki/WEEK-11:-Iteration-and-a-guest)** _November 8_
 
 **WEEK 12: What is iteration? + a guest / Chris Wu** _November 15_
 
